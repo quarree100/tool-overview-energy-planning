@@ -1,0 +1,3 @@
+Name,Short description,Method,Input data,Output data,Availability,Status,Link,Developing organisations
+LoadProfileGenerator,,,,,,,https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator,
+demandlib,,,Annuel electricity demand,Electricity load profiles according to,,,,

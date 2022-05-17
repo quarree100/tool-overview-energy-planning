@@ -38,97 +38,127 @@ for Lower Saxony ...*
 Data acquisition / download
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/1_data-acquisition.csv
+   :align: center
 
 Data processing and visualisation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/1_processing.csv
+   :align: center
 
 Weather data
 ^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/1_weather.csv
+   :align: center
 
 2 Energy demand
 ------------------
 
-Text
-
-
 Heat
 ^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/2_heat.csv
+   :align: center
 
 Electricity
 ^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/2_electricity.csv
+   :align: center
 
 3 Renewable energy potential
 ------------------------------
-
-Text
 
 
 Photovoltaic
 ^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/3_pv.csv
+   :align: center
 
 Solar thermal
 ^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/3_st.csv
+   :align: center
 
 Windpower
 ^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/3_wind.csv
+   :align: center
+
+
 
 
 4 District heating network
 --------------------------
 
-Text
-
 
 Routing & Dimensioning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/4_networks-design.csv
+   :align: center
 
 Thermo-hydraulic simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/4_networks-simulation.csv
+   :align: center
 
 
 5 Electricity network
 -------------------------
 
-Text
-
 
 Power flow calculation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/5_power-flow.csv
+   :align: center
 
 6 District energy supply
 -------------------------
-
-Text
 
 
 Technology selection & Dimensioning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/6_des-design.csv
+   :align: center
 
 Physical simulation
 ^^^^^^^^^^^^^^^^^^^^^
 
-Text
+.. csv-table::
+   :header-rows: 1
+   :file: _static/6_des-simulation.csv
+   :align: center
 

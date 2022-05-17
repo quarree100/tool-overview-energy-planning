@@ -1,0 +1,2 @@
+Name,Short description,Method,Input data,Output data,Availability,Status,Link,Developing organisations
+osmnx,download of buildings footprints and street geometries from open street maps,,coordinates of district,- geopandas.DataFrame with buildings footprints \\ - Streetnetwork graph,open source,maintained,https://pypi.org/project/osmnx/,
