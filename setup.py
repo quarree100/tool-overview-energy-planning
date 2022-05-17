@@ -19,7 +19,7 @@ def read(*names, **kwargs):
 
 
 setup(
-    name='tool-overview-energy-planning',
+    name='tool_overview',
     version='0.0.0',
     license='MIT',
     description='Overview of tools for the planning of regional and district energy systems and infrastructures',
