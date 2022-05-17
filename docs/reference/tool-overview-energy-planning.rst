@@ -3,7 +3,7 @@ tool-overview-energy-planning
 
 .. testsetup::
 
-    from tool-overview-energy-planning import *
+    from tool_overview import *
 
-.. automodule:: tool-overview-energy-planning
+.. automodule:: tool_overview
     :members:

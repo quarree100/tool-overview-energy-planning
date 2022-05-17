@@ -4,4 +4,4 @@ Usage
 
 To use Tool-Overview-Energy-Planning in a project::
 
-	import tool_overview
+	from tool_overview import main
