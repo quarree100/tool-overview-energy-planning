@@ -21,10 +21,18 @@ overview.
     :backlinks: top
 
 
-1 Stocktaking and data acquisition
---------------------------------
+0 Primary data sources
+-----------------------------------
 
-Text
+*This section might contain data source, that are relevant for district energy
+planning. This might be specific, e.g. 3D building geometries are available
+for Lower Saxony ...*
+
+
+1 Stocktaking and data acquisition
+-----------------------------------
+
+*Description of subsection.*
 
 
 Data acquisition / download
@@ -43,7 +51,7 @@ Weather data
 Text
 
 2 Energy demand
---------------------------------
+------------------
 
 Text
 
@@ -58,7 +66,7 @@ Electricity
 
 Text
 
-3 Renewable generation potential
+3 Renewable energy potential
 ------------------------------
 
 Text
@@ -80,8 +88,8 @@ Windpower
 Text
 
 
-4 District heating networks
--------------------------
+4 District heating network
+--------------------------
 
 Text
 
