@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-Please simply fill out this pseudo form.
+*Please simply fill out this pseudo form.*
 
-Please see the documentation https://tool-overview-energy-planning.readthedocs.io/
-for examples.
+*Please see the documentation https://tool-overview-energy-planning.readthedocs.io/
+for examples.*
 
-Please keep your answers short, and think about the **specific planning task**
+*Please keep your answers short, and think about the **specific planning task**
 your tool can contribute to a given subcategory, and what a new use is required
-to know.
+to know.*
 
  * Main category: *Decide on an existing main category of documentation*
  * Subcategory: *Decide on an existing subcategory of documentation*
