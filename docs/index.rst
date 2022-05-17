@@ -6,7 +6,7 @@ Contents
    :maxdepth: 2
 
    readme
-   usage
+   list_of_tools
    reference/index
    contributing
    authors
