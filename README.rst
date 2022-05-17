@@ -24,6 +24,7 @@ infrastructures
 Documentation
 =============
 
+Here you will find the actual list of tools for district energy planning:
 
 https://tool-overview-energy-planning.readthedocs.io/
 
