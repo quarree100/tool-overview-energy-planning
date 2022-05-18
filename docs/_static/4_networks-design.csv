@@ -1,2 +1,2 @@
 Name,Short description,Method,Input data,Output data,Availability,Status,Link,Developing organisations
-DHNx,,,,,open source,,https://github.com/oemof/DHNx,University Bremen
+DHNx,Optimisation of district heating network topology and dimension,MILP based on oemof.solph,"GIS Polygon or point layer with buildings. Heat load of buildings. Potential DHS routes (e.g. Street network). DHS Pipeline data (costs, U-value).",DHS network with pipeline dimensions (geopandas.DataFrame). Costs and losses of DHS network.,open source,early stage,https://github.com/oemof/DHNx,University Bremen
