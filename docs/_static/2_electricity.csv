@@ -1,3 +1,4 @@
 Name,Short description,Method,Input data,Output data,Availability,Status,Link,Developing organisations
 LoadProfileGenerator,,,,,,,https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator,
 demandlib,,,Annuel electricity demand,Electricity load profiles according to,,,,
+richardsonpy,Stochastic occupancy and electric load profiles for residential apartments,," - Number of occupants - many more options", Electricity load profiles,open source,,https://github.com/RWTH-EBC/richardsonpy,"Institute for Energy Efficient Buildings and Indoor Climate, E.ON Energy Research Center, RWTH Aachen University"
